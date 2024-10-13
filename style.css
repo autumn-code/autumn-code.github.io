@@ -1,1 +1,65 @@
+* {
+  font-family: "Qwitcher Grypen", cursive;
+  font-size: 20px;
+}
+.flex-container {
+  display: flex;
+  gap: 20px;
+}
+
+.highlight {
+  color: red !important;
+  text-align: justify;
+}
+
+h1 { 
+  text-align: justify;
+  padding-left: 135px;
+}
+
+table {
+    text-align: center;
+    border-right: 2px solid purple;
+    border-left: 2px solid purple;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+td  {
+    border-top: 3px solid purple;
+    padding: 1px 10px 1px 10px;
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.last {
+    border-bottom: 2px solid purple;
+}
+
+th {
+    border-top: 3px solid purple;
+    font-family: "Qwitcher Grypen", cursive;
+    background-color: pink;
+}
+
+code {
+    background-color: lavender;
+    padding-left: 115px;
+    text-align: center;
+    padding-right: 80px;
+    width: 100%;
+    height: 200%;
+}
+
+codee {
+  background-color: orange;
+}
+table, th, td {
+  border: 2px solid purple;
+  border-collapse: collapse;
+}
+.itali {
+  background-color: orange;
+}
 
